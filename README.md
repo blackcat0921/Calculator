@@ -66,10 +66,12 @@ You're welcome to use it, study it, or build upon it.
 支持我:
 
 这个项目采用「自由定价」方式，您可以免费获取，也可以选择任意金额支持我继续做出更多有趣项目！
+https://xiatian7.gumroad.com/l/qyase
 
 Support me:
 
-This project is "pay-what-you-want" — feel free to download it for free, or support me with any amount if you'd like
+This project is "pay-what-you-want" — feel free to download it for free, or support me with any amount if you'd like！
+https://xiatian7.gumroad.com/l/qyase
 
 ---
 
